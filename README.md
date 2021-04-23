@@ -7,7 +7,7 @@ Tentative schedule outlined below.
 ### Session 1 - Intro to Hyland
 >Monday, June 28
 
-This session will introduce the students to Hyland. It should help motivate them to want to learn more. It can also cover digital citizenship, maybe [typing](https://www.nitrotype.com/race), things like that.
+This session will introduce the students to Hyland. It should help motivate them to want to learn more. It can also cover digital citizenship, maybe [typing](https://www.nitrotype.com/race), things like that. Also - an intake questionnaire for students so we can get to know them a little better. 
 
 ### Session 2 - Security (?)
 >Wednesday, June 30th
@@ -32,7 +32,7 @@ Start with a fun warm-up. Then a lecture followed by a kahoot. Start the coding 
 ### Session 6 - More HTML
 >Wednesday, July 14th
 
-Start with a fun warm-up (review kahoot). Lecture, then jumping into the coding. build a website for a pizza restaurant, or another type of restaurant. Go over links to multiple pages. Introduce lists and links, and embedding youtube videos. Talk about attributes. Students can share their sites at the end. Perhaps a baamboozle quiz.
+Start with a fun warm-up (review kahoot). Lecture, then jumping into the coding. build a website for a pizza restaurant, or another type of restaurant. Go over links to multiple pages. Introduce lists and links, and embedding youtube videos. Talk about attributes and the parent child relationship. Students can share their sites at the end. Perhaps a baamboozle quiz.
 
 ### Session 7 - Intro to CSS
 >Monday, July 19th

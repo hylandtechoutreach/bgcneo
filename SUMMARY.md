@@ -1,0 +1,4 @@
+- [Repl Setup](ReplSetup.md)
+- [Session 5: Intro to HTML](Session5HtmlIntro/StudentDesc.md)
+  - [Follow-Along Activity](Session5HtmlIntro/AboutMeFollowAlong.md)
+  - [Individual Exercise](Session5HtmlIntro/AboutMeIndividual.md)
