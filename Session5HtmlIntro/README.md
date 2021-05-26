@@ -21,8 +21,8 @@ The [PowerPoint Presentation](HelloHtml.pptx) introduces the idea of HTML and sh
 ## Kahoot
 There is a [Kahoot quiz](https://create.kahoot.it/details/740e9179-5b3b-426c-a5ef-e770b2bd60c4) covering the content from the lecture.
 
-## Follow-Along Activity: About Me Website
-Walk through the [About Me Follow-Along](AboutMeFollowAlong.md) activity. Students should build a simple website about themselves.
+## Code-Along Activity: About Me Website
+Walk through the [About Me Code-Along](AboutMeCodeAlong.md) activity. Students should build a simple website about themselves.
 
 ### Multiplayer Repls
 Before jumping into the activity, make sure each student has a Repl account and has properly forked the starter Repl projects. Students should all send along their Multiplayer Repl Links.
@@ -43,6 +43,6 @@ Students should have an opportunity to share their sites with the group at the e
 | Lecture | 25m |
 | Kahoot | 10m |
 | Break | 5m |
-| Follow-Along | 40m |
+| Code-Along | 40m |
 | Individual Exercise | 20m |
 | Sharing Sites | 10m |
