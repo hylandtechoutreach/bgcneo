@@ -22,7 +22,8 @@ It should look something like this:
 Add a header, image, and paragraph to the site. For this example, we will be making a Pizza restaurant - but feel free to choose a different food, and a different restaurant name.
 
 1. Add an `h1` header that says "Alfredo's Pizza Cafe" between the `<body>` and `</body>`
-1. Under the `h1`, add an `<img >` of the pizza (set the `src` attribute to "https://i.imgur.com/v4GLRqb.jpg")
+1. Under the `h1`, add an `<img >` of the pizza
+    - Set the `src` attribute to "https://i.imgur.com/v4GLRqb.jpg"
     - Feel free to use a different image for a different restaurant
 1. Under the `img`, add a `p` that says "WE'RE NOT FINE DINING; WE'RE JUST FINE FOOD!"
     - Note that this is the actual slogan of the actual Alfredo's Pizza Cafe
