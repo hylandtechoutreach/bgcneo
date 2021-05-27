@@ -1,0 +1,564 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Restaurant Code-Along · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-toggle-chapters/toggle.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+        <link rel="stylesheet" href="../styles/website.css">
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="RestaurantIndividual.html" />
+    
+    
+    <link rel="prev" href="StudentDesc.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../ReplSetup.html">
+            
+                <a href="../ReplSetup.html">
+            
+                    
+                    Repl Setup
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../Session5HtmlIntro/StudentDesc.html">
+            
+                <a href="../Session5HtmlIntro/StudentDesc.html">
+            
+                    
+                    Session 5: Intro to HTML
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="../Session5HtmlIntro/AboutMeCodeAlong.html">
+            
+                <a href="../Session5HtmlIntro/AboutMeCodeAlong.html">
+            
+                    
+                    About Me Code-Along
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="../Session5HtmlIntro/AboutMeIndividual.html">
+            
+                <a href="../Session5HtmlIntro/AboutMeIndividual.html">
+            
+                    
+                    About Me Individual
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="StudentDesc.html">
+            
+                <a href="StudentDesc.html">
+            
+                    
+                    Session 6: More HTML Elements
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter active" data-level="1.4.1" data-path="RestaurantCodeAlong.html">
+            
+                <a href="RestaurantCodeAlong.html">
+            
+                    
+                    Restaurant Code-Along
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4.2" data-path="RestaurantIndividual.html">
+            
+                <a href="RestaurantIndividual.html">
+            
+                    
+                    Restaurant Individual
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Restaurant Code-Along</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="restaurant-website-code-along-activity">Restaurant Website: Code-Along Activity</h1>
+<p>Congratulations, you just won $250,000 in a prestigious cooking competition! The only catch is that all of that money has to go toward starting a restaurant. You can serve any type of food you&apos;d like, but you <em>also</em> have to make a website for your new endeavor. Follow the instructions below!</p>
+<h2 id="setup">Setup</h2>
+<p>Make sure to log into your Repl account before proceeding!</p>
+<ol>
+<li>Open and fork the <a href="https://replit.com/@HylandOutreach/EmptyWeb" target="_blank">empty Repl project</a> to begin</li>
+<li>In your new project, open up the <strong>index.html</strong> file</li>
+<li>Add the <code>html</code> tags (opening and closing)</li>
+<li>Add the <code>body</code> tags within the <code>html</code> tags</li>
+</ol>
+<p>It should look something like this:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<h2 id="adding-the-basics">Adding the Basics</h2>
+<p>Add a header, image, and paragraph to the site. For this example, we will be making a Pizza restaurant - but feel free to choose a different food, and a different restaurant name.</p>
+<ol>
+<li>Add an <code>h1</code> header that says &quot;Alfredo&apos;s Pizza Cafe&quot; between the <code>&lt;body&gt;</code> and <code>&lt;/body&gt;</code></li>
+<li>Under the <code>h1</code>, add an <code>&lt;img &gt;</code> of the pizza (set the <code>src</code> attribute to &quot;<a href="https://i.imgur.com/v4GLRqb.jpg" target="_blank">https://i.imgur.com/v4GLRqb.jpg</a>&quot;)<ul>
+<li>Feel free to use a different image for a different restaurant</li>
+</ul>
+</li>
+<li>Under the <code>img</code>, add a <code>p</code> that says &quot;WE&apos;RE NOT FINE DINING; WE&apos;RE JUST FINE FOOD!&quot;<ul>
+<li>Note that this is the actual slogan of the actual Alfredo&apos;s Pizza Cafe</li>
+</ul>
+</li>
+<li>Open your webpage in a browser and make sure it appears as expected!</li>
+</ol>
+<p>At the end of this section, your code should look like this:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Alfredo&apos;s Pizza Cafe<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://i.imgur.com/v4GLRqb.jpg&quot;</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>WE&apos;RE NOT FINE DINING; WE&apos;RE JUST FINE FOOD!<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<h2 id="adding-a-youtube-video">Adding a YouTube Video</h2>
+<p>One fun way to attract customers is to add a video to the site! This is possible using YouTube&apos;s built-in embedding feature.</p>
+<ol>
+<li>Go to <a href="https://youtube.com" target="_blank">YouTube</a></li>
+<li>Find a video that would make sense on your website (like <a href="https://www.youtube.com/watch?v=wusGIl3v044" target="_blank">this one</a> for a pizza restaurant)</li>
+<li>From the YouTube video, click on the &quot;SHARE&quot; button</li>
+<li>In the pop-up, click on the &quot;Embed&quot; button</li>
+<li>In the lower right corner, click &quot;COPY&quot; to copy the code</li>
+<li>Go back into Replit, and paste the code into the <strong>index.html</strong> file, under the <code>&lt;p&gt;&lt;/p&gt;</code> element</li>
+<li>Run the program, and verify that the video appears on the page!</li>
+</ol>
+<p>It should look something like this:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Alfredo&apos;s Pizza Cafe<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://i.imgur.com/v4GLRqb.jpg&quot;</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>WE&apos;RE NOT FINE DINING; WE&apos;RE JUST FINE FOOD!<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;560&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;315&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.youtube.com/embed/wusGIl3v044&quot;</span> <span class="hljs-attr">title</span>=<span class="hljs-string">&quot;YouTube video player&quot;</span> <span class="hljs-attr">frameborder</span>=<span class="hljs-string">&quot;0&quot;</span> <span class="hljs-attr">allow</span>=<span class="hljs-string">&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot;</span> <span class="hljs-attr">allowfullscreen</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
+
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<h2 id="adding-a-list-of-locations">Adding a List of Locations</h2>
+<p>Next, it&apos;s important to list the locations for the restaurant.</p>
+<ol>
+<li>Add an <code>h2</code> header that says &quot;Locations&quot; under the <code>&lt;/iframe&gt;</code></li>
+<li>Under the <code>h2</code>, add a new <code>ul</code> (unordered list)</li>
+<li>Within the <code>ul</code>, add some locations within <code>li</code> elements<ul>
+<li>Note that the <code>li</code> elements are <em>children</em> of the <code>ul</code> element</li>
+<li>There should be at least <em>three</em> locations</li>
+</ul>
+</li>
+<li>Open your webpage in a browser and make sure it appears as expected!</li>
+</ol>
+<p>At the end of this section, your code should look something like this:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Alfredo&apos;s Pizza Cafe<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://i.imgur.com/v4GLRqb.jpg&quot;</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>WE&apos;RE NOT FINE DINING; WE&apos;RE JUST FINE FOOD!<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;560&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;315&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.youtube.com/embed/wusGIl3v044&quot;</span> <span class="hljs-attr">title</span>=<span class="hljs-string">&quot;YouTube video player&quot;</span> <span class="hljs-attr">frameborder</span>=<span class="hljs-string">&quot;0&quot;</span> <span class="hljs-attr">allow</span>=<span class="hljs-string">&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot;</span> <span class="hljs-attr">allowfullscreen</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h2</span>&gt;</span>Locations<span class="hljs-tag">&lt;/<span class="hljs-name">h2</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">ul</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Scranton, PA<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Albany, NY<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Utica, NY<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<h2 id="adding-the-menu---a-new-page">Adding the Menu - A New Page</h2>
+<p>The website has information now, but we still need to add in a menu! The menu can be another page on the website - this way, it can stay separate from the main page. Start by adding a new file, filling out some basic HTML, and linking it from the <strong>index.html</strong> file.</p>
+<ol>
+<li>In the Replit project, add a new file by clicking the &quot;Add file&quot; button</li>
+<li>Enter the name <strong>menu.html</strong> for the new file</li>
+<li>Open the new file, and add the basic elements: <code>html</code> and <code>body</code></li>
+<li>Within the <code>body</code>, add an <code>h1</code> header that says &quot;Menu&quot;</li>
+<li>Under that, add a <code>p</code> that says &quot;No substitutions please&quot;</li>
+</ol>
+<p>The code in the <strong>menu.html</strong> file should look something like this:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Menu<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>No substitutions please<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<h3 id="linking-to-the-new-file">Linking to the New File</h3>
+<p>In order to actually see the new page, it will be necessary to link to it from the main page!</p>
+<ol>
+<li>Open the <strong>index.html</strong> file for editing</li>
+<li>Under the <code>&lt;/ul&gt;</code> element, create an <code>a</code> element</li>
+<li>Set the <code>src</code> of the <code>a</code> element to be &quot;menu.html&quot;</li>
+<li>Set the text of the <code>a</code> element to say &quot;Menu</li>
+</ol>
+<p>The <code>a</code> element should look something like this:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;menu.html&quot;</span>&gt;</span>Menu<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>
+</code></pre>
+<p>Run the program, and verify that it is possible to open the new Menu page!</p>
+<h2 id="adding-specialty-pizzas">Adding Specialty Pizzas</h2>
+<p>Now that the Menu page has been created, we need to add some food to it.</p>
+<ol>
+<li>Open the <strong>menu.html</strong> file for editing</li>
+<li>Make a new line under the <code>&lt;/p&gt;</code> in the <code>body</code></li>
+<li>Add an <code>h3</code> that says &quot;Top Specialty Pizzas&quot;</li>
+<li>Under the <code>&lt;/h3&gt;</code>, create a <code>&lt;ol&gt;&lt;/ol&gt;</code> element<ul>
+<li>This is an <em>unordered</em> list because these are ranked in order</li>
+</ul>
+</li>
+<li>Between the <code>&lt;ol&gt;</code> and <code>&lt;/ol&gt;</code>, add an <code>&lt;li&gt;&lt;/li&gt;</code> element</li>
+<li>Between the <code>&lt;li&gt;</code> and <code>&lt;/li&gt;</code>, add the text &quot;Hawaiian Pizza&quot;</li>
+<li>Continue this process and add two more <code>&lt;li&gt;&lt;/li&gt;</code> elements under the first one within the <code>ol</code></li>
+</ol>
+<p>The code for this part should look something like this:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Top Specialty Pizzas<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">ol</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Hawaiian Pizza<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Meat Lovers Pizza<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Meat Haters Pizza<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">ol</span>&gt;</span>
+</code></pre>
+<p>Run the program, and verify that the specialty pizzas appear on the menu!</p>
+<h2 id="adding-toppings">Adding Toppings</h2>
+<p>Next, add a section that lists all the toppings a customer can add.</p>
+<ol>
+<li>Under the <code>&lt;/ol&gt;</code> in the <code>body</code>, make a new line</li>
+<li>Add an <code>h3</code> that says &quot;Toppings&quot;</li>
+<li>Under the <code>&lt;/h3&gt;</code>, create a <code>&lt;ul&gt;&lt;/ul&gt;</code> element</li>
+<li>Between the <code>&lt;ul&gt;</code> and <code>&lt;/ul&gt;</code>, add an <code>&lt;li&gt;&lt;/li&gt;</code> element</li>
+<li>Between the <code>&lt;li&gt;</code> and <code>&lt;/li&gt;</code>, add the text &quot;Pepperoni&quot;</li>
+<li>Continue this process and add two more <code>&lt;li&gt;&lt;/li&gt;</code> elements under the first one within the <code>ul</code></li>
+</ol>
+<p>The code for this part should look something like this:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Toppings<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">ul</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Pepperoni<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Mushroom<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Extra Cheese<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span>
+</code></pre>
+<p>Run the program, and verify that the toppings list appears on the menu!</p>
+<h2 id="linking-back">Linking Back</h2>
+<p>Currently, after a customer visits the menu, they cannot get back to the main page. We can fix this with another <code>a</code> element on the Menu page.</p>
+<ol>
+<li>Under the final <code>&lt;/ul&gt;</code>, make a new line</li>
+<li>Add an <code>a</code> element<ul>
+<li>Set its <code>href</code> attribute to <code>index.html</code></li>
+<li>Set its text content to <code>Back</code></li>
+</ul>
+</li>
+</ol>
+<p>It should look something like this:</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;index.html&quot;</span>&gt;</span>Back<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>
+</code></pre>
+<p>Run the program, and verify that it is possible to go to the Menu page and go back!</p>
+<h2 id="final-html">Final HTML</h2>
+<p>By the end, the two files should look something like this:</p>
+<p><strong>index.html</strong></p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Alfredo&apos;s Pizza Cafe<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://i.imgur.com/v4GLRqb.jpg&quot;</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>WE&apos;RE NOT FINE DINING; WE&apos;RE JUST FINE FOOD!<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">iframe</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;560&quot;</span> <span class="hljs-attr">height</span>=<span class="hljs-string">&quot;315&quot;</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://www.youtube.com/embed/wusGIl3v044&quot;</span> <span class="hljs-attr">title</span>=<span class="hljs-string">&quot;YouTube video player&quot;</span> <span class="hljs-attr">frameborder</span>=<span class="hljs-string">&quot;0&quot;</span> <span class="hljs-attr">allow</span>=<span class="hljs-string">&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot;</span> <span class="hljs-attr">allowfullscreen</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">iframe</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h2</span>&gt;</span>Locations<span class="hljs-tag">&lt;/<span class="hljs-name">h2</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">ul</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Scranton, PA<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Albany, NY<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Utica, NY<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;menu.html&quot;</span>&gt;</span>Menu<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+<p><strong>menu.html</strong></p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">html</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">body</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">h1</span>&gt;</span>Menu<span class="hljs-tag">&lt;/<span class="hljs-name">h1</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span>No substitutions please<span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Top Specialty Pizzas<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">ol</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Hawaiian Pizza<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Meat Lovers Pizza<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Meat Haters Pizza<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">ol</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">h3</span>&gt;</span>Toppings<span class="hljs-tag">&lt;/<span class="hljs-name">h3</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">ul</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Pepperoni<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Mushroom<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">li</span>&gt;</span>Extra Cheese<span class="hljs-tag">&lt;/<span class="hljs-name">li</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">ul</span>&gt;</span>
+
+        <span class="hljs-tag">&lt;<span class="hljs-name">a</span> <span class="hljs-attr">href</span>=<span class="hljs-string">&quot;index.html&quot;</span>&gt;</span>Back<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">body</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">html</span>&gt;</span>
+</code></pre>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="StudentDesc.html" class="navigation navigation-prev " aria-label="Previous page: Session 6: More HTML Elements">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="RestaurantIndividual.html" class="navigation navigation-next " aria-label="Next page: Restaurant Individual">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Restaurant Code-Along","level":"1.4.1","depth":2,"next":{"title":"Restaurant Individual","level":"1.4.2","depth":2,"path":"Session6HtmlContinued/RestaurantIndividual.md","ref":"Session6HtmlContinued/RestaurantIndividual.md","articles":[]},"previous":{"title":"Session 6: More HTML Elements","level":"1.4","depth":1,"path":"Session6HtmlContinued/StudentDesc.md","ref":"Session6HtmlContinued/StudentDesc.md","articles":[{"title":"Restaurant Code-Along","level":"1.4.1","depth":2,"path":"Session6HtmlContinued/RestaurantCodeAlong.md","ref":"Session6HtmlContinued/RestaurantCodeAlong.md","articles":[]},{"title":"Restaurant Individual","level":"1.4.2","depth":2,"path":"Session6HtmlContinued/RestaurantIndividual.md","ref":"Session6HtmlContinued/RestaurantIndividual.md","articles":[]}]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters"],"pluginsConfig":{"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"Session6HtmlContinued/RestaurantCodeAlong.md","mtime":"2021-05-27T11:59:38.681Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-05-27T12:00:15.844Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-toggle-chapters/toggle.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

@@ -7,12 +7,12 @@ Tentative schedule outlined below.
 ### Session 1 - Intro to Hyland
 >Monday, June 28
 
-This session will introduce the students to Hyland. It should help motivate them to want to learn more. It can also cover digital citizenship, maybe [typing](https://www.nitrotype.com/race), things like that. Also - an intake questionnaire for students so we can get to know them a little better. 
+This session will introduce the students to Hyland. It should help motivate them to want to learn more. It can also cover digital citizenship, maybe [typing](https://www.nitrotype.com/race), things like that. Maybe basic computer skills too. Also - an [intake questionnaire](https://docs.google.com/forms/d/1fUBJxTOeAclXJgtoPCcqP6OctHSEXX8rzb7iI8lcjqw/edit) for students so we can get to know them a little better. Icebreakers and having students introduce themselves. Creating Replit accounts.
 
-### Session 2 - Security (?)
+### Session 2 - Coding Fun
 >Wednesday, June 30th
 
-A workshop hosted by the app security team.
+A one-off workshop designed to be fun. Use the [twine](https://github.com/hytechcamps/twine) material.
 
 ### Session 3 - No Session (?)
 >Monday, July 5th
@@ -27,12 +27,12 @@ A workshop hosted by the user experience team.
 ### Session 5 - Intro to HTML
 >Monday, July 12th
 
-Start with a fun warm-up. Then a lecture followed by a kahoot. Start the coding by making sure each student has a Repl account. Have each of them share a Multiplayer link to their project. Students then build basic websites about themselves. They learn about the `html`, `body`, `h1`, `p`, and `img` elements. They should have an opportunity to share their work.
+Material available [here](Session5HtmlIntro/).
 
 ### Session 6 - More HTML
 >Wednesday, July 14th
 
-Start with a fun warm-up (review kahoot). Lecture, then jumping into the coding. build a website for a pizza restaurant, or another type of restaurant. Go over links to multiple pages. Introduce lists and links, and embedding youtube videos. Talk about attributes and the parent child relationship. Students can share their sites at the end. Perhaps a baamboozle quiz.
+Material available [here](Session6HtmlContinued/).
 
 ### Session 7 - Intro to CSS
 >Monday, July 19th
