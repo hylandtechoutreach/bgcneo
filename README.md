@@ -37,6 +37,8 @@ Material available [here](Session6HtmlContinued/).
 ### Session 7 - Intro to CSS
 >Monday, July 19th
 
+Material available [here](Session7CssIntro/).
+
 Start with another fun warm-up (color schemes with [coolors](https://coolors.co)). Get into the basics of CSS - taking an HTML page that exists and adding some colors to it. custom colors for background and foreground. font size and font family. [name all colors sporcle](https://www.sporcle.com/games/rockgolf/rainbow-coalition)
 
 ### Session 8 - CSS Selectors
