@@ -30,7 +30,8 @@ To close out the session, play through a [Baamboozle group quiz](https://www.baa
 |-|-|
 | Warm-up Kahoot | 15m |
 | Lecture | 20m |
+| Break | 5m |
 | Code-Along | 45m |
-| Individual Exercise | 20m |
+| Individual Exercise | 15m |
 | Sharing Sites | 10m |
 | Baamboozle Quiz | 10m |
