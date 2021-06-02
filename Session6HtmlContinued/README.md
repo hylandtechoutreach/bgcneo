@@ -26,6 +26,7 @@ Students should have an opportunity to share their sites with the group toward t
 To close out the session, play through a [Baamboozle group quiz](https://www.baamboozle.com/game/506338) that covers the material from the lesson.
 
 ## Suggested Schedule
+
 | Activity | Time |
 |-|-|
 | Warm-up Kahoot | 15m |

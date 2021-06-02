@@ -26,6 +26,7 @@ Students should have an opportunity to share their sites with the group at the e
 If there is enough time, close out the session with an activity where the students work as a group to try and name all colors available on the web. Go to the [Sporcle](https://www.sporcle.com/games/rockgolf/rainbow-coalition), click the "PLAY QUIZ" button, and have students shout out as many answers as they can. It does not need to take the full 15 minutes on the timer - 10 minutes should be long enough.
 
 ## Suggested Schedule
+
 | Activity | Time |
 |-|-|
 | Warm-up | 10m |
