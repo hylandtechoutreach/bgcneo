@@ -9,3 +9,6 @@
   - [Coolors Warm-up](Session7CssIntro/CoolorsWarmUp.md)
   - [Bananas Code-Along](Session7CssIntro/BananasCodeAlong.md)
   - [Bananas Individual](Session7CssIntro/BananasIndividual.md)
+- [Session 8: More CSS](Session8CssSelectors/StudentDesc.md)
+  - [Rainbow Code-Along](Session8CssSelectors/RainbowCodeAlong.md)
+  - [Rainbow Individual](Session8CssSelectors/RainbowIndividual.md)

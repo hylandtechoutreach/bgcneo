@@ -37,6 +37,7 @@ Students should follow [these instructions](AboutMeIndividual.md) independently 
 Students should have an opportunity to share their sites with the group at the end.
 
 ## Suggested Schedule
+
 | Activity | Time |
 |-|-|
 | Icebreaker | 10m |
