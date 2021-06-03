@@ -16,3 +16,5 @@
   - [Pixels Code-Along](Session9Grid/PixelsCodeAlong.md)
   - [Pixels Individual](Session9Grid/PixelsIndividual.md)
 - [Session 10: Final Project](Session10FinalProject/StudentDesc.md)
+  - [HTML Cheatsheet](Session10FinalProject/HtmlCheatsheet.md)
+  - [CSS Cheatsheet](Session10FinalProject/CssCheatsheet.md)
