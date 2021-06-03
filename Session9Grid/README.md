@@ -9,6 +9,12 @@ Start by presenting the [CSS Grid PowerPoint Presentation](CssGrid.pptx). This i
 ## Code-Along
 Walk through the [Pixels Code-Along](PixelsCodeAlong.md) activity. It uses `div`s and a grid to make a small pixel art PAC-MAN. There will end up being quite a lot of HTML code, but most of it is fairly repetitive.
 
+### Multiplayer Repls
+Before jumping into the activity, make sure each student has a Repl account and has properly forked the starter Repl projects. Students should all send along their Multiplayer Repl Links.
+
+- [Student Form](https://forms.gle/tw1bQoptj9M8Jts68)
+- [Responses](https://docs.google.com/spreadsheets/d/1k1gBrOYVu2J2e4mpx9HHW1TBRpGJ9-hlQFIVdskoINQ/edit?usp=sharing)
+
 ## Individual Work
 Have students work on the [Pixels Individual](PixelsIndividual.md) exercises. These will give them a chance to update their existing code on their own.
 

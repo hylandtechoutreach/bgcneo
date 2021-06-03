@@ -15,6 +15,12 @@ Play through the [Kahoot Quiz](https://create.kahoot.it/share/css-selectors/5d1e
 ## Code-Along
 Walk through the [Rainbow Code-Along](RainbowCodeAlong.md) activity with the students. There is some existing HTML, and the idea is to update it with CSS styles. It will be required to update the HTML to add `class` and `id` attributes, and update the CSS to select elements based on them.
 
+### Multiplayer Repls
+Before jumping into the activity, make sure each student has a Repl account and has properly forked the starter Repl projects. Students should all send along their Multiplayer Repl Links.
+
+- [Student Form](https://forms.gle/tw1bQoptj9M8Jts68)
+- [Responses](https://docs.google.com/spreadsheets/d/1k1gBrOYVu2J2e4mpx9HHW1TBRpGJ9-hlQFIVdskoINQ/edit?usp=sharing)
+
 ## Individual Work
 Have students work on the [Rainbow Individual](RainbowIndividual.md) exercises. They will have an opportunity to update the website with some new HTML and CSS.
 
