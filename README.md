@@ -42,12 +42,12 @@ Material available [here](Session7CssIntro/).
 ### Session 8 - CSS Selectors
 >Wednesday, July 21st
 
-Start with skribblio warmup. Get into CSS Selectors - class and id. way to change only some elements, instead of all elements on the page. multicolored paragraphs? favorite colors... using color schemes, making it fun.
+Material available [here](Session8CssSelectors/).
 
-### Session 9 - Divs
+### Session 9 - Grid
 >Monday, July 26th
 
-grid system - parent/child. warm-up: grid garden? introducing the idea of the grid system. forget about spans. maybe start with some starter code and then update it for the pixel drawings in HTML. talk more about grids. use the grid garden. piskel at the end. not sure about this one.
+Material available [here](Session9Grid/).
 
 ### Session 10 - Project Work Begins
 >Wednesday, July 28th

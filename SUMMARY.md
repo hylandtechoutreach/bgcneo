@@ -12,3 +12,7 @@
 - [Session 8: More CSS](Session8CssSelectors/StudentDesc.md)
   - [Rainbow Code-Along](Session8CssSelectors/RainbowCodeAlong.md)
   - [Rainbow Individual](Session8CssSelectors/RainbowIndividual.md)
+- [Session 9: Grid](Session9Grid/StudentDesc.md)
+  - [Pixels Code-Along](Session9Grid/PixelsCodeAlong.md)
+  - [Pixels Individual](Session9Grid/PixelsIndividual.md)
+- [Session 10: Final Project](Session10FinalProject/StudentDesc.md)
