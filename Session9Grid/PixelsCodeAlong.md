@@ -24,7 +24,7 @@ Pixel art can be used for almost anything!
 ## Starting Point
 Get started by forking the existing Repl.
 
-1. Go to the [existing Replit project](https://replit.com/@HylandOutreach/RainbowCoalition)
+1. Go to the [existing Replit project](https://replit.com/@HylandOutreach/GridStarter)
 1. Fork the project by clicking the fork button
   - Make sure to log into your account!
 1. Take a look at the code so far
@@ -56,7 +56,7 @@ It won't look like anything yet - it needs some CSS!
 Next, add some CSS to the `div`.
 
 1. Open the **style.css** file for editing
-1. Create a new ruleset for `<div id="main">`
+1. Create a new ruleset for the main div
     - Remember, this is `#main { }`
 1. Within the ruleset, set the `width` to `400px`
 1. Under that, still within the ruleset, add a border
@@ -100,7 +100,7 @@ It won't look like anything yet - it needs some CSS!
 Next, add some CSS to the cell `div`.
 
 1. Open the **style.css** file for editing
-1. Create a new ruleset for `<div class="cell">`
+1. Create a new ruleset for elements with class `cell`
     - Remember, this is `.cell { }`
 1. Within the ruleset, set the `height` to `100px`
 
@@ -190,9 +190,9 @@ The cells still won't be yellow yet - they need some CSS.
 ### CSS
 Select the proper cells with CSS, and make them yellow!
 
-1. Create a new ruleset for `<div class="yellow">`
+1. Create a new ruleset for elements with class `yellow`
     - Remember, this is `.yellow { }`
-1. Within the ruleset, set the `background` to `gold`
+2. Within the ruleset, set the `background` to `gold`
 
 The CSS should look something like this:
 
@@ -231,7 +231,7 @@ The cells still won't be black yet - they need some CSS.
 ### CSS
 Select the proper cells with CSS, and make them black!
 
-1. Create a new ruleset for `<div class="black">`
+1. Create a new ruleset for elements with class `black`
     - Remember, this is `.black { }`
 1. Within the ruleset, set the `background` to `black`
 

@@ -7,3 +7,6 @@ Learn how to use the `<div>` element in HTML, and about some CSS properties for 
 ## Activities
 - [Pixels Code-Along](PixelsCodeAlong.md)
 - [Pixels Individual](PixelsIndividual.md)
+
+## More
+- [Piskel Demo](https://hylandtechoutreach.github.io/ucs/Session4Animation/PiskelDemo.html)
