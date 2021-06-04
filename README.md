@@ -1,5 +1,8 @@
 # Hyland + Boys & Girls Club
-Material for Hyland's Partnership with Boys & Girls Club of Northeast Ohio.
+This repository contains material for Hyland's Partnership with Boys & Girls Club of Northeast Ohio.
+
+## Basic Info
+Students will meet on Mondays and Wednesdays from 10am-12pm ET on Zoom. The first two weeks will be introductory sessions and one-off activities. The following four weeks will cover HTML & CSS, culminating in a final capstone project. All lesson plans are within this GitHub repository. Student-facing content is surfaced through [this Gitbook](https://hylandtechoutreach.github.io/bgcneo). Students will use [Replit](https://replit.com) to write code and host their websites.
 
 ## Schedule
 1. [Session 1 (6/28): Intro to Hyland](IntroSessions/)
