@@ -1,6 +1,21 @@
 # Hyland + Boys & Girls Club
 Thank you for participating in this program!
 
+## Joining the Zoom
+To participate, please join the Zoom meeting by clicking [this link](https://hyland.zoom.us/j/97571986591?pwd=Q1hodmVxNngzMDE3YWZRbnBlb1QwQT09).
+
+Download Zoom if necessary, or simply join from the browser. When prompted, do _not_ join with audio - that would lead to feedback in the classroom.
+
+![](zoomaudioprompt.png)
+
+Click the 'x' to close the pop-up.
+
+![](continuewithoutaudio.png)
+
+Click continue.
+
+The Zoom meeting will mainly be used for the Chat feature - instructors can send links, and students can ask questions. It will not be necessary to keep the Zoom window open for most of the time.
+
 ## Schedule
 1. Session 1 (6/28): Intro to Hyland
 1. [Session 2 (6/30): Twine](https://hytechcamps.github.io/twine/)
