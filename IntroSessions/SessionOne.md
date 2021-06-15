@@ -1,6 +1,8 @@
 # Session 1 - Intro to Hyland (6/28)
 This session will introduce the students to Hyland. It should help motivate them to want to learn more. This session will also provide an opportunity to troubleshoot technical difficulties.
 
+This session can move at a relatively slow pace - there are not too many important things to get through.
+
 ## Intro to Hyland PowerPoint
 Present the Hyland Intro PowerPoint so the students learn a bit about what Hyland is all about.
 
