@@ -2,7 +2,7 @@
 Before the more in-depth curriculum begins, there will be some introductory sessions.
 
 ## Session 1 - Intro to Hyland (6/28)
-This session will introduce the students to Hyland. It should help motivate them to want to learn more. It can also cover digital citizenship, maybe [typing](https://www.nitrotype.com/race), things like that. Maybe basic computer skills too. Also - an [intake questionnaire](https://docs.google.com/forms/d/1fUBJxTOeAclXJgtoPCcqP6OctHSEXX8rzb7iI8lcjqw/edit) for students so we can get to know them a little better. Icebreakers and having students introduce themselves. Creating Replit accounts.
+This session will introduce the students to Hyland and this partnership program. More information [here](SessionOne.md).
 
 ## Session 2 - Twine Workshop (6/30)
 Go through the [Twine](https://github.com/hytechcamps/twine) Hy-Tech Camp. This is a one-off workshop, but it does cover some concepts that will be relevant for web development.
