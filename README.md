@@ -5,7 +5,7 @@ This repository contains material for Hyland's Partnership with Boys & Girls Clu
 Students will meet on Mondays and Wednesdays from 10am-12pm ET on Zoom. The first two weeks will be introductory sessions and one-off activities. The following four weeks will cover HTML & CSS, culminating in a final capstone project. All lesson plans are within this GitHub repository. Student-facing content is surfaced through [this Gitbook](https://hylandtechoutreach.github.io/bgcneo). Students will use [Replit](https://replit.com) to write code and host their websites.
 
 ## Schedule
-1. [Session 1 (6/28): Intro to Hyland](IntroSessions/)
+1. [Session 1 (6/28): Intro to Hyland](IntroSessions/SessionOne.md)
 1. [Session 2 (6/30): Twine](https://github.com/hytechcamps/twine)
 1. Session 3 (7/5): No Meeting
 1. Session 4 (7/7): UX Workshop
