@@ -6,7 +6,7 @@ Students will meet on Mondays and Wednesdays from 10am-12pm ET on Zoom. The firs
 
 ## Schedule
 1. [Session 1 (6/28): Intro to Hyland](IntroSessions/SessionOne.md)
-1. [Session 2 (6/30): Twine](https://github.com/hytechcamps/twine)
+1. [Session 2 (6/30): Twine](https://github.com/hytechcamps/twine/blob/master/VirtualReadMe.md)
 1. Session 3 (7/5): No Meeting
 1. Session 4 (7/7): UX Workshop
 1. [Session 5 (7/12): Intro to HTML](Session5HtmlIntro/)
