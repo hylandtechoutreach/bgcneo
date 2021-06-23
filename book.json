@@ -1,7 +1,0 @@
-{
-    "structure": {
-        "readme": "BOOKREADME.md",
-        "summary": "SUMMARY.md"
-    },
-    "plugins": ["toggle-chapters"]
-}
