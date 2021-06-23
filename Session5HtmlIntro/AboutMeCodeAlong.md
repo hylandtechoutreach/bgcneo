@@ -9,11 +9,13 @@ Start by creating a **fork** of an empty project to get started, and sharing a *
 
 1. Go to [this empty Project](https://replit.com/@HylandOutreach/EmptyWeb#index.html)
 1. Click the "Fork" button in the upper right  
-    ![](https://i.imgur.com/RR31b6X.png)
-1. On the next page, click the "Share" button in the upper right  
-    ![](https://i.imgur.com/FfGzMHe.png)
-1. In the window that appears, click the "Copy" button next to the link  
-    ![](https://i.imgur.com/LGfBIUE.png)
+    ![](https://i.imgur.com/BLN0x38.png)
+1. On the next page, click the "Invite" button in the upper right  
+    ![](https://i.imgur.com/HO0pn17.png)
+1. In the window that appears, click the "Generate a join link" button at the bottom 
+    ![](https://i.imgur.com/StM4yXX.png)
+1. When the link appears, click the copy button to copy the URL for the **Multiplayer Link**  
+    ![](https://i.imgur.com/G8fzSoE.png)
 
 Once the **Multiplayer Link** has been copied, you can open [this google form](https://forms.gle/tw1bQoptj9M8Jts68). Fill in your name, paste the link, and submit the form.
 
