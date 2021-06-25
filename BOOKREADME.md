@@ -2,7 +2,7 @@
 Thank you for participating in this program!
 
 ## Joining the Zoom
-To participate, please join the Zoom meeting by clicking [this link](https://hyland.zoom.us/j/97571986591?pwd=Q1hodmVxNngzMDE3YWZRbnBlb1QwQT09).
+To participate, please join the Zoom meeting by clicking [this link](https://hyland.zoom.us/j/99442377582?pwd=d1dNc1Exa2VoZjVTNkdqSUd1STR6QT09).
 
 Download Zoom if necessary, or simply join from the browser. When prompted, do _not_ join with audio - that would lead to feedback in the classroom.
 
