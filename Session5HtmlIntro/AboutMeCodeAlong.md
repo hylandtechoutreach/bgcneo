@@ -17,7 +17,7 @@ Start by creating a **fork** of an empty project to get started, and sharing a *
 1. When the link appears, click the copy button to copy the URL for the **Multiplayer Link**  
     ![](https://i.imgur.com/G8fzSoE.png)
 
-Once the **Multiplayer Link** has been copied, you can open [this google form](https://forms.gle/tw1bQoptj9M8Jts68). Fill in your name, paste the link, and submit the form.
+Once the **Multiplayer Link** has been copied, you can open [this google form](https://forms.gle/rH62KaA7tSeSuDnQ7). Fill in your name, paste the link, and submit the form.
 
 ## HTML Setup
 Now everything should be ready to go. Start by creating a simple HTML document containing a header.
