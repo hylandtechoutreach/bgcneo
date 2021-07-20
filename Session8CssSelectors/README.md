@@ -33,3 +33,14 @@ Have students work on the [Rainbow Individual](RainbowIndividual.md) exercises. 
 | Break | 5m |
 | Code-Along | 65m |
 | Individual Exercise | 20m |
+
+## Notes 7/21
+For the session on 7/21 (and the entire bgc pilot in 2021), there were significant adjustments from the original plan.
+
+Here is the checklist used: https://www.checkli.com/checklists/view/60e864ca9b25c
+
+Started from here for the code-along: https://replit.com/@HylandOutreach/RainbowPoem#index.html
+
+Did this Kahoot: https://create.kahoot.it/share/css-intro-bgc/3b80ee62-4b67-49d6-b89d-1edd80a4db23
+
+Many hidden slides in the lecture, only covered classes.
