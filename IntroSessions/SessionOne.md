@@ -4,6 +4,7 @@ This session will introduce the students to Hyland. It should help motivate them
 This session can move at a relatively slow pace - there are not too many important things to get through.
 
 ## Intro to Hyland PowerPoint
+>TODO: Update this
 Present the Hyland Intro PowerPoint so the students learn a bit about what Hyland is all about.
 
 ## Icebreakers
@@ -17,17 +18,8 @@ Some possible questions:
 - Favorite Vacation Destination
 - Favorite TV Show
 
-## Zoom Practice
-Take some time to practice using some zoom features. Have students locate the participants list, and show how they can use the "Yes/No/Faster/Slower" badges. Ask some basic questions and have them answer the questions in this way. Additionally, have them practice using polls and reactions. 
-
 ## Intake Questionnaire
 After the icebreakers, have the students complete the [intake questionnaire](https://forms.gle/Q3mytWNRKGUkeX8U6). This will help us get to know each of them a little better. Responses can be checked [here](https://docs.google.com/forms/d/1fUBJxTOeAclXJgtoPCcqP6OctHSEXX8rzb7iI8lcjqw/edit#responses).
-
-## Creating Replit Accounts
-After the students complete the questionnaire, walk them through creating Replit accounts. They will not need to share their accounts, because the future lessons will ask them for Multiplayer Repl links.
-
-## Nitro Type
-Have students race on [Nitro Type](https://www.nitrotype.com/race), either independently or with friends. This part is mostly for fun, but will also be good practice and help us get a feel for their skill level. Have them share their Words Per Minute in the chat. Students can continue striving to improve their speed for the remainder of the session.
 
 ## Remaining Time - Fun & Games
 Use any remaining time to play some fun games. Students can vote on what they would like to do.
@@ -52,9 +44,6 @@ Use [Drawphone](https://drawphone.tannerkrewson.com/) to play an online game of 
 |-|-|
 | Hyland Presentation | 15m |
 | Icebreakers | 15m |
-| Zoom Practice | 10m |
 | Intake Questionnaire | 10m |
 | Break | 5m |
-| Creating Replit Accounts | 5m |
-| Nitro Type | 15m |
 | Fun & Games | 45m |
