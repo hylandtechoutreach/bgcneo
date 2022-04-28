@@ -20,7 +20,7 @@ Complete the Drag & Drop [Retro Games Code-Along](https://hytechcamps.github.io/
 Complete the [Piskel Lesson](https://github.com/hylandtechoutreach/ucs/tree/master/Piskel).
 
 ## Session 5
-Complete the [Sandwich Algorithm Lesson](https://github.com/hylandtechoutreach/coding-activities/blob/master/SandwichAlgorithmLesson/AlgorithmLessonOutline.md).
+Complete the [Sandwich Algorithm Lesson](https://github.com/hylandtechoutreach/coding-activities/blob/master/SandwichAlgorithmLesson/AlgorithmLessonOutline.md). Alternatively, use the [My Robotic Friends](https://studio.code.org/s/coursec-2021/lessons/2#section-147099) activity. Could also combine this session with a career panel.
 
 ## Session 6
 Complete the [Machine Learning Code-Along](https://hytechcamps.github.io/machine-learning/FollowAlong.html) activity.
