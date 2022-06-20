@@ -4,29 +4,17 @@ Before the HTML/CSS curriculum begins, there will be some introductory sessions.
 #### Videos
 Some of these sessions can include interesting videos about computer science, careers, applications, and more.
 
-## Session 1 - Intro to Hyland
+## Session 1: Intro to Hyland
 This session will introduce the students to Hyland and this partnership program. More information [here](SessionOne.md).
 
-## Session 2 - Hour of Code
-There are a few options for the hour of code:
-- [Sports](https://hourofcode.com/athlete)
-- [Minecraft](https://hourofcode.com/mchoc)
-- [Dance Party](https://hourofcode.com/dance2019)
+## Session 2: Retro Games
+Follow the lesson plan for the [Retro Games](https://github.com/hytechcamps/retro-games) Hy-Tech Camp. There is no need to complete the icebreaker - simply present the PowerPoint, Kahoot quiz, and Code-Along. If the timing is tight, the most essential part of the session is the code-along.
 
-## Session 3 - Retro Games
-Complete the Drag & Drop [Retro Games Code-Along](https://hytechcamps.github.io/retro-games/CodeAlong.html) activity.
+## Session 3: Machine Learning
+Follow the lesson plan for the [Machine Learning](https://github.com/hytechcamps/machine-learning) Hy-Tech Camp. There is no need to complete the icebreaker - simply present the PowerPoint, Kahoot quiz, and Follow-Along. If the timing is tight, the most essential part of the session is the follow-along.
 
-## Session 4 - Piskel Lesson
-Complete the [Piskel Lesson](https://github.com/hylandtechoutreach/ucs/tree/master/Piskel).
+## Session 4: Hyland Tour and Guest Speakers
+This session will take place at Hyland HQ! Students should have a chance to see Hyland's campus, and hear from some Hyland employees about their careers.
 
-## Session 5
-Complete the [Sandwich Algorithm Lesson](https://github.com/hylandtechoutreach/coding-activities/blob/master/SandwichAlgorithmLesson/AlgorithmLessonOutline.md). Alternatively, use the [My Robotic Friends](https://studio.code.org/s/coursec-2021/lessons/2#section-147099) activity. Could also combine this session with a career panel.
-
-## Session 6
-Complete the [Machine Learning Code-Along](https://hytechcamps.github.io/machine-learning/FollowAlong.html) activity.
-
-## Session 7
-For this session, schedule some panelists to talk about their careers. Remaining time can be spent on typing practice or other fun activities.
-
-## Session 8
-Complete the [Twine](https://github.com/hylandtechoutreach/coding-activities/blob/master/TwineLesson/TwineLesson.md) activity. During this session, students should also create Replit accounts.
+## Sessions 5-8: CS Fundamentals Express
+Have students work through [Code.org's CS Fundamentals Express Curriculum](https://studio.code.org/s/express-2021). This will be largely self-paced. Supplement these sessions with videos, games, and other activities that will be engaging for the students.
