@@ -1,14 +1,14 @@
-# Session 1 - Intro to Hyland (6/28)
-This session will introduce the students to Hyland. It should help motivate them to want to learn more. This session will also provide an opportunity to troubleshoot technical difficulties.
+# Session 1 - Intro to Hyland (6/21)
+This session will introduce the students to Hyland and coding. It should help motivate them to want to learn more. This session will also provide an opportunity to troubleshoot technical difficulties.
 
 This session can move at a relatively slow pace - there are not too many important things to get through.
 
-## Intro to Hyland PowerPoint
->TODO: Update this
-Present the Hyland Intro PowerPoint so the students learn a bit about what Hyland is all about.
+### Materials Needed
+- Solo Cups
+- Paper and Pencils
 
 ## Icebreakers
-Have students introduce themselves through an icebreaker activity. Have each student post their answer to some icebreaker questions in the chat - this will help them practice using the chat.
+Have students introduce themselves through an icebreaker activity. Have each student answer some quick icebreaker questions.
 
 Some possible questions:
 
@@ -19,7 +19,13 @@ Some possible questions:
 - Favorite TV Show
 
 ## Intake Questionnaire
-After the icebreakers, have the students complete the [intake questionnaire](https://forms.gle/Q3mytWNRKGUkeX8U6). This will help us get to know each of them a little better. Responses can be checked [here](https://docs.google.com/forms/d/1fUBJxTOeAclXJgtoPCcqP6OctHSEXX8rzb7iI8lcjqw/edit#responses).
+After the icebreakers, have the students complete the [intake questionnaire](https://forms.gle/yuuuU3A5ySs3NqZa8). This will help us get to know each of them a little better. Responses can be checked [here](https://docs.google.com/spreadsheets/d/17j0VnEucZrxMPRNM3uzfVKTFr9v3TDvTX9ky0VU1qNE/edit?usp=sharing).
+
+## Intro to Hyland PowerPoint
+Present the Hyland Intro PowerPoint so the students learn a bit about what Hyland is all about.
+
+## My Robotic Friends Unplugged Activity
+Present the [unplugged activity](https://studio.code.org/s/coursec-2021/lessons/2) for the students. They will work on writing instructions for a "computer" to follow to stack cups.
 
 ## Remaining Time - Fun & Games
 Use any remaining time to play some fun games. Students can vote on what they would like to do.
@@ -42,8 +48,9 @@ Use [Drawphone](https://drawphone.tannerkrewson.com/) to play an online game of 
 
 | Activity | Time |
 |-|-|
-| Hyland Presentation | 15m |
 | Icebreakers | 15m |
+| Hyland Presentation | 15m |
 | Intake Questionnaire | 10m |
 | Break | 5m |
-| Fun & Games | 45m |
+| My Robotic Friends | 30m |
+| Fun & Games | 15m |
