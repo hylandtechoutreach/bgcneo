@@ -6,11 +6,11 @@ Students will meet on Tuesdays and Thursdays from 10:30am-12:30pm ET at The Broa
 
 ## Schedule Summer 2022
 1. Session 1 (6/21): [Intro to Hyland & My Robotic Friends Activity](IntroSessions/SessionOne.md)
-1. Session 2 (6/23): [Retro Games](https://hytechcamps.github.io/retro-games/CodeAlong.html)
-1. Session 3 (6/28): [Machine Learning](https://hytechcamps.github.io/machine-learning/FollowAlong.html) 
+1. Session 2 (6/23): [Start CS Fundamentals Express](https://studio.code.org/s/express-2021)
+1. Session 3 (6/28): [Continue CS Fundamentals Express](https://studio.code.org/s/express-2021)
 1. Session 4 (6/30): Hyland Tour & Guest Speakers
-1. Session 5 (7/5):  [Start CS Fundamentals Express](https://studio.code.org/s/express-2021)
-1. Session 6 (7/7):  [Continue CS Fundamentals Express at Hyland](https://studio.code.org/s/express-2021)
+1. Session 5 (7/5):  [Continue CS Fundamentals Express](https://studio.code.org/s/express-2021)
+1. Session 6 (7/7):  [HTML & CSS Activity at Hyland](https://github.com/hylandtechoutreach/coding-activities/blob/master/HtmlCssLesson.md)
 1. Session 7 (7/12): [Continue CS Fundamentals Express](https://studio.code.org/s/express-2021)
 1. Session 8 (7/14): [Continue CS Fundamentals Express](https://studio.code.org/s/express-2021)
 1. Session 9 (7/19): Start Final Projects (HTML Introduction)
